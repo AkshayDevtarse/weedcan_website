@@ -1,0 +1,285 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.book_appointment{
+	height: 100%;
+	width: 15%;
+	background-color: white;
+	float: right;
+	margin-right: 250px;
+
+}
+
+.nav-link1{
+	color: black;
+	margin-left: 50px;
+}
+
+.Learn_btn{
+	height: 100px;
+	width: 300px;
+	float: left;
+	background-color: ;
+	margin-top: -100px;
+	margin-left: 580px;
+	z-index: 999;
+	position: absolute;
+}
+
+.background-img{
+	height: auto;
+	width: 100%;
+	float: left;
+	background-image: url(https://themes.codezion.com/tm/angular/weedcan/assets/images/bannerbtm2.jpg);
+    background-size: 100% 100%;
+   
+    }
+
+    .background-img2{
+    height: auto;
+	width: 100%;
+	float: left;
+	background-image: url(https://themes.codezion.com/tm/angular/weedcan/assets/images/bannerbtm2.jpg);
+    background-size: 100% 100%;
+    }
+
+    .img_edit{
+    	border-radius: 100%;
+    }
+    .smoking_img{
+    	border-radius: 100%;
+    	margin: 50px;
+    }
+
+
+    .background-img3{
+	height: 850px;
+	width: 100%;
+	float: left;
+	background-image: url(https://themes.codezion.com/tm/angular/weedcan/assets/images/bannerbtm2.jpg);
+    background-size: 100% 100%;
+   
+    }
+.about_back_img{
+	height: 100%;
+	width: 100%;
+    background-image: url(https://themes.codezion.com/tm/angular/weedcan/assets/images/bannerbtm2.jpg);    
+    float: left;
+    background-size: 100% 100%;
+
+}
+
+.product_border{
+	border-radius: 100%;
+}
+
+.background-img_imp_precautions{
+	height: auto;
+	width: 100%;
+	background-image: url(https://themes.codezion.com/tm/angular/weedcan/assets/images/bannerbtm2.jpg);
+	float: left;
+	background-size: 100% 100%;
+}
+.in_img{
+	height: 100%;
+	width: 100%;
+	float: left;
+	border: 2px solid white;
+}
+
+.background_img_ram{
+	height: 100%;
+	width: 100%;
+	background-size: 100% 100%;
+	background-image: url(https://www.westminster.ac.uk/sites/default/public-files/styles/panel_image_1_2_768px_/public/general-images/Hindu-flag.jpg?itok=eUAU4EXd);
+}
+/*https://www.kindpng.com/picc/m/118-1180360_rss-akhand-bharat-hd-png-download.png*/
+
+
+
+@media(max-width: 667px){
+	.navbar_icons{
+		display: none;
+	}
+	.caption{
+		width: 100%;
+		margin-left: 0px;
+		margin-top: 20px;
+		color: white;
+	}
+	.buy_btn{
+		margin-top: 20px;
+		margin-left: -380px;
+		height: 50px;
+
+	}
+	.get_btn{
+		margin-top: -80px;
+		margin-left: 120px;
+	}
+	.icon_arrow{
+		margin-left:-100px;
+		margin-top:-50px;
+		float: right;
+	}
+
+	.menubar_area{
+		height: 170px;
+	}
+
+	.book_appointment{
+		width: 200px;
+		margin-left: 120px;
+		float: left;
+		margin-top: 10px;
+	}
+
+	.widcan_img{
+		margin-left: -150px;
+		float: left;
+		margin-top: 5px;
+
+	}
+	.navbar_media a{
+		display: none;
+	}
+	.img_media{
+		width: 100%;
+		margin-top: 110px;
+	}
+	.Learn_btn{
+		margin-left: 80px;
+		margin-top: -10px;
+	}
+	.history_quality{
+		margin-top: 100px;
+		padding: 0px;
+	}
+	.text6{
+		margin-top: -830px;
+
+	}
+	.text7{
+		margin-top: -430px;
+	}
+	
+	.text8{
+		margin-top: -30px;
+	}
+	.media_img1{
+		
+
+	}
+	.media_img2{
+	
+	}
+
+.media_img3{
+		
+	}
+
+	.doctor1{
+		margin-top: 50px;
+
+	}
+
+	.doctor2{
+		margin-top: 50px;
+	}
+
+	.doctor_caption1{
+		margin-top: -960px;
+		margin-bottom:950px;
+		margin-left: 300px;
+		float: right;
+		
+
+	}
+
+	.doctor_caption2{
+		margin-top: -685px;
+		margin-bottom:700px;
+		margin-left:100px;
+		float: right;
+	}
+
+.doctor_caption3{
+		margin-top: -437px;
+		margin-bottom:437px;
+		margin-left: 50px;
+		float: right;
+	}
+
+.doctor_caption4{
+		margin-top: -175px;
+		margin-bottom:175px;
+		margin-left: 0px;
+		float: right;
+	}
+.description{
+	margin-top: 20px;
+    margin-left: -100px;
+    float: left;
+}
+
+.background-img2{
+   margin-top:-900px;
+   width:100%;
+}
+.blog_img{
+	margin-top: 20px;
+}
+.blog_caption1{
+	
+}
+
+.blog_caption2{
+	margin-right: 100px;
+	
+}
+
+
+.blog_caption3{
+	margin-left: -300px;
+	float: left;
+}
+
+.footer_section{
+	margin-top: 50px;
+}
+
+.white_line{
+	display: none;
+}
+.footer_main_part{
+	
+}
+
+.background-img3{
+	height: auto;
+
+}
+
+.footer_end_text{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.home_name{
+	display: none;
+}
+
+.product_brands{
+	margin-top: -800px;
+}
+
+.Shouldn’t_do{
+	margin-top: 50px;
+}
+
+	
+	
+}
+
